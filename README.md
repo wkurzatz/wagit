@@ -1,0 +1,4 @@
+wagit
+=====
+
+WAG estimator
